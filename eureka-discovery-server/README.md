@@ -2,7 +2,7 @@
 
 ## Create project using maven
 ```
-mvn archetype:generate -DgroupId=discovery.server -DartifactId=discovery-server -Dversion=1.0 -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+mvn archetype:generate -DgroupId=eureka.discovery.server -DartifactId=eureka-discovery-server -Dversion=1.0 -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
 ```
 
 ## Add gradle
@@ -23,7 +23,7 @@ gradle init --type pom
 ## Steps
 * Add above dependencies
 * Add annotation **org.springframework.cloud.netflix.eureka.server.EnableEurekaServer** on main class
-* Add below properties in **application.properties
+* Add below properties in **application.properties**
 ```
 server.port=8761
 spring.application.name=discovery-server
