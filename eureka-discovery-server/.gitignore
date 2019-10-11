@@ -83,3 +83,5 @@ build
 */logs/*
 /out/
 */out/*
+/bin/
+*/bin/*
