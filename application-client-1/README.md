@@ -1,4 +1,4 @@
-# Dependency Injection using Xml
+# Application Client - client to Application Service
 
 ## Create project using maven
 ```

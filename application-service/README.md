@@ -1,4 +1,4 @@
-# Spring Cloud Eureka Discovery Server
+# Application Service - Client to Discovery Server
 
 ## Create project using maven
 ```
