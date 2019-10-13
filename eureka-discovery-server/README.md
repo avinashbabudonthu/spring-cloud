@@ -1,4 +1,4 @@
-# Dependency Injection using Xml
+# Spring Cloud Eureka Discovery Server
 
 ## Create project using maven
 ```
