@@ -7,6 +7,7 @@
 # Materials
 ## Pluralsight
 * Spring Cloud Fundamentals
+* Spring Cloud: Developing Services
 * Introduction to Spring Cloud Contract
 
 ## Others
